@@ -1,0 +1,58 @@
+{
+  "appId": "do-workout-app",
+  "channel": "hybrid",
+  "version": "0.0.3",
+  "buildTimestamp": 1768718710397,
+  "zipFile": "app-bundle-v0.0.3.zip",
+  "zipSha256": "ee965971d984f77d3ebc25fca23ced11dbb87248173dfbf12fb210dd834c69d0",
+  "files": {
+    "index.androidOffline.html": {
+      "sha256": "56ffc6e0423998091c68275b643cd5b2b5b2de2569333f9d4522d60c767309c2",
+      "size": 55916
+    },
+    "211.55ae82aa27127c0d.js": {
+      "sha256": "dfa3f9ef7f37c12f419cd144a229cf449479f27aa4659bcbef746aab5b64351b",
+      "size": 57218
+    },
+    "249.782c2047bb896961.js": {
+      "sha256": "a9d0115e17de75c0f7ac71fcaefb86bb299a646f3b97cd588bf001a5f373e6d5",
+      "size": 51121
+    },
+    "304.906e1aa5a0cc3c03.js": {
+      "sha256": "28e7ab0f41589049120a906908c44b24f0bef4ca7c8a677404afa6395ea441a7",
+      "size": 26095
+    },
+    "312.1d8ef00c5d16f015.js": {
+      "sha256": "3b32d9c9d25d296df19b426fb215c0646362dd7af15e8c29e963b89fd19ec892",
+      "size": 32996
+    },
+    "357.dfddb98af949799d.js": {
+      "sha256": "c07d11b8884e51ad006eeda08e99ad9f13ea3f2ebbe54b33a05045a0e9a9d856",
+      "size": 206526
+    },
+    "399.b5a38738cab6806c.js": {
+      "sha256": "5d1649e1c0cf0c0f9fe3c3d7a51be71e3926e12fc75740cb21d63b80f56f1e74",
+      "size": 20680
+    },
+    "408.56fcd6b25f2cfd13.js": {
+      "sha256": "83d8b6e27a103ee026aca8a3c1e8e0f07bdb67058ca977bc24169a9aae5bba67",
+      "size": 30098
+    },
+    "429.60e1bde56f8c2afe.js": {
+      "sha256": "153d9f297de0c1bed43e5981723f1f31bb8eac89f6d1577289118377948396f6",
+      "size": 37847
+    },
+    "467.5b5358dffc45a2cf.js": {
+      "sha256": "22c77ca73cba919a11ab71c09af0e4d7f62185d6edee3ba49d4ff1c1006b814c",
+      "size": 45845
+    },
+    "609.5c8b1e0bb2c2d850.js": {
+      "sha256": "b6c1a5a339a46a616b4114b606035560fd935d0d9c528ee93e15ea5353ac6c97",
+      "size": 59547
+    },
+    "styles.ce81c69eabfd9594.css": {
+      "sha256": "f0e48423e22f651b037362379b573c48a4cc6804e79d72f4c596c16357d89038",
+      "size": 293752
+    }
+  }
+}
