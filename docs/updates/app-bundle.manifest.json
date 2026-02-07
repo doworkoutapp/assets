@@ -1,22 +1,18 @@
 {
   "appId": "do-workout-app",
   "channel": "hybrid",
-  "version": "1.0.18",
-  "buildTimestamp": 1770150575794,
-  "zipFile": "app-bundle-v1.0.18.zip",
-  "zipSha256": "84ed73aac904f29b620010a1f553dc9e419ec946847066387be88e9470136a18",
+  "version": "1.0.19",
+  "buildTimestamp": 1770488307314,
+  "zipFile": "app-bundle-v1.0.19.zip",
+  "zipSha256": "e6eaa7c573986acfd8990571a5f945b4de6256683e9a9512b41d57ad96d3bb31",
   "files": {
     "index.androidOffline.html": {
-      "sha256": "7a5809344ae443972384e47514a7b8d8ed7f40327ec56f82b01c545e6d617e61",
+      "sha256": "c8bfc36962d9c001e607ee245f702ceb9a1266c08b6955366e78fee46cb83b62",
       "size": 55910
     },
     "211.84203077a4e01fc6.js": {
       "sha256": "160b963c322abdd36fa96250093304d1602ef03f6cb72c2a20f97538d598bf84",
       "size": 57270
-    },
-    "249.108bebe4e5e4bf40.js": {
-      "sha256": "8b9d8e30879aad3e4915f06e804891c489ec1956370a0994af85523cddc3c4ed",
-      "size": 55965
     },
     "304.bc4c7d1cb94ec528.js": {
       "sha256": "5f7f99d48ba10d2d672604339370eb7e3c3fa110f5e784e92a6e61d92bb0bf61",
@@ -30,9 +26,9 @@
       "sha256": "c07d11b8884e51ad006eeda08e99ad9f13ea3f2ebbe54b33a05045a0e9a9d856",
       "size": 206526
     },
-    "395.81acdb0ea500a660.js": {
-      "sha256": "040d6871799fb2791ac784e11d085009ac6fa79058fcb69b818ee20a8b2ae13a",
-      "size": 78752
+    "395.27a10997d580dbd9.js": {
+      "sha256": "b0c3f278de46cc46caec04bb59750850c653a44026e7a378bde8493fdcc81baa",
+      "size": 78803
     },
     "408.56fcd6b25f2cfd13.js": {
       "sha256": "83d8b6e27a103ee026aca8a3c1e8e0f07bdb67058ca977bc24169a9aae5bba67",
@@ -45,6 +41,10 @@
     "449.4f5cffde748093c6.js": {
       "sha256": "0508f18751f93347e424af1462e539111ad1c87d2150d97a109943df2bf6ca77",
       "size": 14512
+    },
+    "53.40ec7651627ec9b8.js": {
+      "sha256": "3828a3b52e1a157e631f613ce0306c26621c4a7969e5b729d2f60fe4ff26c0fe",
+      "size": 72335
     },
     "609.c5c36b6f7ef57750.js": {
       "sha256": "88bec71a6904ab31c0956f8fbafc2f1372a3484c09052983c6921afd4ab5e2a9",
