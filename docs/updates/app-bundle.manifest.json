@@ -1,13 +1,13 @@
 {
   "appId": "do-workout-app",
   "channel": "hybrid",
-  "version": "1.0.47",
-  "buildTimestamp": 1774387654791,
-  "zipFile": "app-bundle-v1.0.47.zip",
-  "zipSha256": "e690e53663817454f36036bd7a7fc3b80f43923417b8d67426cd8adae3226e8b",
+  "version": "1.0.48",
+  "buildTimestamp": 1774440960158,
+  "zipFile": "app-bundle-v1.0.48.zip",
+  "zipSha256": "8e9e823a2aa20b303c6ae8b394fa52c24492dea68aecf23f9c0e253f5e856d7c",
   "files": {
     "index.androidOffline.html": {
-      "sha256": "9472bd988b99c46e2d4401153f620d202c5a53bc7309517dc02e481d6b73b402",
+      "sha256": "8e675042e8d9ebc0c405b027c4bc026f645f37a121bf4753eef344350578401a",
       "size": 55913
     },
     "199.770285a8c275c470.js": {
@@ -38,13 +38,13 @@
       "sha256": "f89c0ad2e091a0aa0a3eeb3cc1448e86e4ab74d0890407d088aacf6beb91c92c",
       "size": 117908
     },
-    "463.dbed7cdb8ca18e16.js": {
-      "sha256": "94b254bce52306b562fa8ad304f221a5606a0a2edd8f50437ce508c68c55e0df",
-      "size": 68109
+    "463.770ee025a1815d73.js": {
+      "sha256": "7ffc5f68112c6d027e373e71e53c05c40355862b1a55fd736750f7413f141782",
+      "size": 68867
     },
-    "53.a6e19783eb198ffb.js": {
-      "sha256": "a30546d994d97350af4ccf2f7e72bdc42834ca2c7996bd50f3f086b3120c23a1",
-      "size": 96185
+    "53.c440f1bb7f225bce.js": {
+      "sha256": "75707ca89604f341483ec4873d4d7cd42c5174f8b0cab13c9dcf5bf68739d7a0",
+      "size": 98771
     },
     "564.fac32297751318f0.js": {
       "sha256": "b44eff516362c93280207f9cacada3b79403e9448fc4bd7bf53a1b60c4977908",
