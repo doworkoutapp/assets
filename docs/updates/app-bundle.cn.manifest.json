@@ -1,26 +1,22 @@
 {
   "appId": "do-workout-app",
   "channel": "offline",
-  "version": "1.0.63",
-  "buildTimestamp": 1775916182009,
-  "zipFile": "app-bundle-v1.0.63.cn.zip",
-  "zipSha256": "e1e1d49c8c36ee73fa3505cceaf44abb6fefd20b2d6a49660f731c75212d289f",
+  "version": "1.0.64",
+  "buildTimestamp": 1775978120075,
+  "zipFile": "app-bundle-v1.0.64.cn.zip",
+  "zipSha256": "0153e0585eda63c7d814cf399957238a0b9c53ec7a9016959add7a2337a4a73e",
   "files": {
     "index.androidOffline.html": {
-      "sha256": "72ce4b6d7ccf4a946ed10674899c80b05cec8172b8fb8de6fba4c12f1642ef3b",
+      "sha256": "6a25a945ffdc8ef64eb461f7412c9c31c7c9a1ed28893608016b8a18031e82b3",
       "size": 55914
     },
     "211.a4593072acdca2ad.js": {
       "sha256": "9ac425335d207e0f8b8835c25669b151086b5515309c36820922b421f08704c8",
       "size": 210568
     },
-    "266.44a03d0026413e02.js": {
-      "sha256": "f8de35c8907cca02e9bcfa88dcba3d05954e4da96a3547031399a5678aa662f8",
-      "size": 12885
-    },
-    "275.09e0e5caa82a13c0.js": {
-      "sha256": "0bab867898787003cd417401be427eef01fb00dfec2bb69d9529cdbbac8fa4ab",
-      "size": 31548
+    "275.ef4f23130764f095.js": {
+      "sha256": "05ded0a25f6730594dfaa230d81e1927382607f5436c7e88f5a7d2001e903ef1",
+      "size": 31606
     },
     "304.2257977b5fb85431.js": {
       "sha256": "72edb603e95d5ad04319fd445534394b67949515930c1a06e437a5667e5efa76",
@@ -46,9 +42,13 @@
       "sha256": "93c645a752af147fec891309b51b04984e57fb85722bab3c28ce377da5caddbc",
       "size": 29539
     },
-    "64.a2baecb408aa9396.js": {
-      "sha256": "bf9f6a2680877a18298a4924144b3157609407369243b237e218f419b564a6e5",
-      "size": 133638
+    "64.f8313bfd374cd1fd.js": {
+      "sha256": "cf4c7a77e16865cb70d20abc1921ffedf235dd815b902160d3a1a74cfbd07fff",
+      "size": 133956
+    },
+    "734.cd9d36e87f927ce7.js": {
+      "sha256": "cdc0c1539e11a38cdd7d89d9298cd4db7311cc1c0a2fae085441ecae8f237e70",
+      "size": 24928
     },
     "styles.5931cc06c49deb70.css": {
       "sha256": "3e86672bc658de17fe71db5c12b7d0b11a52752431e13ae1ea0e0f27144d9584",
