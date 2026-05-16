@@ -1,13 +1,13 @@
 {
   "appId": "do-workout-app",
   "channel": "hybrid",
-  "version": "1.0.82",
-  "buildTimestamp": 1778564117932,
-  "zipFile": "app-bundle-v1.0.82.zip",
-  "zipSha256": "f85b3f8691b19aef87ab578ec8ca90ff6756a2ab2645529cf1480efc471001c0",
+  "version": "1.0.83",
+  "buildTimestamp": 1778916555952,
+  "zipFile": "app-bundle-v1.0.83.zip",
+  "zipSha256": "9b69ea75f1566b9385d7c047380bc2d036be67d7abfc51073491ded3c313aa95",
   "files": {
     "index.androidOffline.html": {
-      "sha256": "acbf0e20faa1cef26134d6dceb2efd2f7556b81d42fc0e2e4b61bd7ddf2d0ff9",
+      "sha256": "8e7acd1a12a672bc471e03d54dd637115645cd38e02e656750e938f6ec0f5bb4",
       "size": 55913
     },
     "275.6138a89653aa7a75.js": {
