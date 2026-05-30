@@ -1,26 +1,26 @@
 {
   "appId": "do-workout-app",
   "channel": "hybrid",
-  "version": "1.0.87",
-  "buildTimestamp": 1779994915982,
-  "zipFile": "app-bundle-v1.0.87.zip",
-  "zipSha256": "10ca40d8a3b84af762bb18aea60f5635c97c918136ecf71831c2dea665845d29",
+  "version": "1.0.88",
+  "buildTimestamp": 1780121905410,
+  "zipFile": "app-bundle-v1.0.88.zip",
+  "zipSha256": "4f6e87e12259d4647cb4f4aecf688d7fb6bc07e9d94d99de35caac3033d7d287",
   "files": {
     "index.androidOffline.html": {
-      "sha256": "c2a4fcb9d619b4b753344a55ef99cb62f260a092959d093f7a621ffff6cc1538",
+      "sha256": "f302a5fdef131a7fe2374670a646b0023f309166187529a8b67ee85a0c504971",
       "size": 55913
     },
-    "253.62b7e5eac0e0bdd7.js": {
-      "sha256": "fb6d692c68010b2e0988583529ce70a3091cf628b3afda989b99e6ebde14d8ed",
-      "size": 54162
+    "253.b3435cd9dfeea7ca.js": {
+      "sha256": "271a7b32a892e0273c12a9a6466c925dc989a18f030bd5b55aef44bf5484aebd",
+      "size": 55109
     },
     "275.f9afd6c0ca510e13.js": {
       "sha256": "049e5386c7e0bd31b74939c8978b24edf5023bd5f48f28c94c5512414764b7fc",
       "size": 33421
     },
-    "299.a5a3b0a444333241.js": {
-      "sha256": "6b47dc72f02db80ab0825d50991dc3d1d6a6b54c9da0609fd72e8ab5d7867594",
-      "size": 39293
+    "299.e9e5628af34ec965.js": {
+      "sha256": "2f86f4a91aa0de7611114e8a1ff7a75277144796679ada8a1d63a17421c2ea8e",
+      "size": 39281
     },
     "30.bbd701554467b28d.js": {
       "sha256": "4b6cd52ae612dc3dace564df72a98b3d5c790f7f7ced16d7226147492186c2d4",
@@ -30,9 +30,9 @@
       "sha256": "72edb603e95d5ad04319fd445534394b67949515930c1a06e437a5667e5efa76",
       "size": 23479
     },
-    "32.d659083190b57e31.js": {
-      "sha256": "d33169a69cf8e82d03f210553986a7aecc1697dbb9477a7a4f39e817072d3f7a",
-      "size": 103421
+    "32.11a9ad2039807fd1.js": {
+      "sha256": "aa8d8f3eee3273907f487924ff657767921c74a6f354612059e0ae2222f34f27",
+      "size": 103850
     },
     "357.d8ff58ce8089c03c.js": {
       "sha256": "380a4dafda0e925debfc7eaf0916a333f7d58ac9fecae05084c89a2e6bca15b4",

@@ -1,26 +1,26 @@
 {
   "appId": "do-workout-app",
   "channel": "offline",
-  "version": "1.0.87",
-  "buildTimestamp": 1779995024414,
-  "zipFile": "app-bundle-v1.0.87.cn.zip",
-  "zipSha256": "116265bc6b3bf56c037f5a3b663d0806f3a4907ff42de137baeca26960acf1bb",
+  "version": "1.0.88",
+  "buildTimestamp": 1780121978696,
+  "zipFile": "app-bundle-v1.0.88.cn.zip",
+  "zipSha256": "7adcafb88b935a52b03bd35be10785fca1a451d283dcf57eac5b21bbe62bc85e",
   "files": {
     "index.androidOffline.html": {
-      "sha256": "3e9d18d6ef1e63eed3ee2a5a12fcbf19f0ada97279599a75da87bd234afdc84c",
+      "sha256": "a88357a83bcf1797dd7f8efb339cb8e8204893ef1ccf19541139abca4e3c4289",
       "size": 55914
     },
-    "253.62b7e5eac0e0bdd7.js": {
-      "sha256": "fb6d692c68010b2e0988583529ce70a3091cf628b3afda989b99e6ebde14d8ed",
-      "size": 54162
+    "253.b3435cd9dfeea7ca.js": {
+      "sha256": "271a7b32a892e0273c12a9a6466c925dc989a18f030bd5b55aef44bf5484aebd",
+      "size": 55109
     },
     "275.f9afd6c0ca510e13.js": {
       "sha256": "049e5386c7e0bd31b74939c8978b24edf5023bd5f48f28c94c5512414764b7fc",
       "size": 33421
     },
-    "299.a5a3b0a444333241.js": {
-      "sha256": "6b47dc72f02db80ab0825d50991dc3d1d6a6b54c9da0609fd72e8ab5d7867594",
-      "size": 39293
+    "299.e9e5628af34ec965.js": {
+      "sha256": "2f86f4a91aa0de7611114e8a1ff7a75277144796679ada8a1d63a17421c2ea8e",
+      "size": 39281
     },
     "30.bbd701554467b28d.js": {
       "sha256": "4b6cd52ae612dc3dace564df72a98b3d5c790f7f7ced16d7226147492186c2d4",
@@ -30,9 +30,9 @@
       "sha256": "72edb603e95d5ad04319fd445534394b67949515930c1a06e437a5667e5efa76",
       "size": 23479
     },
-    "32.d659083190b57e31.js": {
-      "sha256": "d33169a69cf8e82d03f210553986a7aecc1697dbb9477a7a4f39e817072d3f7a",
-      "size": 103421
+    "32.11a9ad2039807fd1.js": {
+      "sha256": "aa8d8f3eee3273907f487924ff657767921c74a6f354612059e0ae2222f34f27",
+      "size": 103850
     },
     "357.d8ff58ce8089c03c.js": {
       "sha256": "380a4dafda0e925debfc7eaf0916a333f7d58ac9fecae05084c89a2e6bca15b4",
