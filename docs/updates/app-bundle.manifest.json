@@ -1,13 +1,13 @@
 {
   "appId": "do-workout-app",
   "channel": "hybrid",
-  "version": "1.0.88",
-  "buildTimestamp": 1780121905410,
-  "zipFile": "app-bundle-v1.0.88.zip",
-  "zipSha256": "4f6e87e12259d4647cb4f4aecf688d7fb6bc07e9d94d99de35caac3033d7d287",
+  "version": "1.0.89",
+  "buildTimestamp": 1780311534099,
+  "zipFile": "app-bundle-v1.0.89.zip",
+  "zipSha256": "fc4af0716cfa692104d76ad3cd983d941cddf8358dafe6a50e9dfa36e2320ca8",
   "files": {
     "index.androidOffline.html": {
-      "sha256": "f302a5fdef131a7fe2374670a646b0023f309166187529a8b67ee85a0c504971",
+      "sha256": "56e45943e72293d861a3d2c844083bff9b9dbdfb59705f8498c4961e096a6b9d",
       "size": 55913
     },
     "253.b3435cd9dfeea7ca.js": {
@@ -18,10 +18,6 @@
       "sha256": "049e5386c7e0bd31b74939c8978b24edf5023bd5f48f28c94c5512414764b7fc",
       "size": 33421
     },
-    "299.e9e5628af34ec965.js": {
-      "sha256": "2f86f4a91aa0de7611114e8a1ff7a75277144796679ada8a1d63a17421c2ea8e",
-      "size": 39281
-    },
     "30.bbd701554467b28d.js": {
       "sha256": "4b6cd52ae612dc3dace564df72a98b3d5c790f7f7ced16d7226147492186c2d4",
       "size": 32886
@@ -30,9 +26,9 @@
       "sha256": "72edb603e95d5ad04319fd445534394b67949515930c1a06e437a5667e5efa76",
       "size": 23479
     },
-    "32.11a9ad2039807fd1.js": {
-      "sha256": "aa8d8f3eee3273907f487924ff657767921c74a6f354612059e0ae2222f34f27",
-      "size": 103850
+    "32.d7fd2af79b2fad9f.js": {
+      "sha256": "8749be45dc0234a4230ad8f4f929c28590e18222500a91077d91c78e0811832b",
+      "size": 102617
     },
     "357.d8ff58ce8089c03c.js": {
       "sha256": "380a4dafda0e925debfc7eaf0916a333f7d58ac9fecae05084c89a2e6bca15b4",
@@ -50,9 +46,13 @@
       "sha256": "1f887453948ee95ba860a2e83b92c24f946e71aacc53bbcb96a245da4e8e2c6c",
       "size": 37314
     },
-    "styles.8be4e27a3c9942a0.css": {
-      "sha256": "15f77cfb95840e1149cc29110af6c5c41497159dae46a17e1703ddecb50a4971",
-      "size": 294756
+    "53.19575451f456ef2c.js": {
+      "sha256": "43126b702b29c97287d00fc665434f8ad9e44ef596f8e13f15c3f4144dd6ad20",
+      "size": 109017
+    },
+    "styles.87794926c7b72419.css": {
+      "sha256": "46b81d2701b471aa254659ab5a492d68bc4238a09fbfb37092bcf438c125cd91",
+      "size": 295076
     }
   }
 }
