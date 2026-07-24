@@ -1,58 +1,58 @@
 {
   "appId": "do-workout-app",
   "channel": "offline",
-  "version": "1.1.23",
-  "buildTimestamp": 1783872501446,
-  "zipFile": "app-bundle-v1.1.23.cn.zip",
-  "zipSha256": "57580dcb0b01e4bbb369ab8218bebe32860072c8365aa442f1804ba7f4c513f8",
+  "version": "1.1.25",
+  "buildTimestamp": 1784887258640,
+  "zipFile": "app-bundle-v1.1.25.cn.zip",
+  "zipSha256": "31273b1b3f0a76df66fffe7086f2f94eda02866460c525123b7fb7b7b21657ac",
   "files": {
     "index.androidOffline.html": {
-      "sha256": "c54880e545f09df301ec332ea1d3c4891a90a920be6beeb2dbae3fb96b06e8d3",
-      "size": 55914
+      "sha256": "8192dd1f067e8fa25c457c8bb536198c4cd2e51cf43d60053f8bc51b8be2a6cd",
+      "size": 2289
     },
-    "105.7e5b6c948c21f9df.js": {
-      "sha256": "c0f445d0dc5dfd1ed3443c05a7f3a8bc0c1e369e0f11d12c700387a3b99a4e2d",
-      "size": 118973
+    "105.25b7082268f7ff19.js": {
+      "sha256": "7d4b5d892eff97afc6d30df013993aa3f3d408e9b9fdb91dad9a2a9c4dfab6b9",
+      "size": 118955
     },
-    "248.3c7a9ccdefd44ac3.js": {
-      "sha256": "49aea45a71b67ce47fe0855c537beff022243d8575c3614aa39379058879a680",
-      "size": 44939
+    "248.ca4d8cd9c0366cf5.js": {
+      "sha256": "a8b5a1b80b057298324d2850b91dd863d0d000966290828360361c75161d29c8",
+      "size": 44584
     },
-    "275.8b2caa192ac1614c.js": {
-      "sha256": "3ef96437abcbb90188430388b200cce44253956db2494c33418e328d169248db",
-      "size": 37833
+    "275.3326b13d0cfe56a0.js": {
+      "sha256": "7722404d6cca2909f8bce144d82681fc0173fe75d1c003820dfd9d32ba53dd76",
+      "size": 37770
     },
-    "304.a54f45feb2944fa1.js": {
-      "sha256": "338e9d66907ba2e36150068116af129d8ad95bd7028a0dbd55b2197a179faf5c",
-      "size": 23479
+    "304.d796b726e92e9a63.js": {
+      "sha256": "637b58f8cc6f2c633628e26055262a2b26f28b66470970257fef4cc3fc9a34ff",
+      "size": 23487
     },
-    "357.d8ff58ce8089c03c.js": {
-      "sha256": "380a4dafda0e925debfc7eaf0916a333f7d58ac9fecae05084c89a2e6bca15b4",
-      "size": 207257
+    "357.20d7b9554a2131b5.js": {
+      "sha256": "b203d32a9e2084e94aa3a278172235f01e6d59503859a2684e85c069464c803f",
+      "size": 208902
     },
     "408.56fcd6b25f2cfd13.js": {
       "sha256": "83d8b6e27a103ee026aca8a3c1e8e0f07bdb67058ca977bc24169a9aae5bba67",
       "size": 30098
     },
-    "423.2eb3d625ae6a3593.js": {
-      "sha256": "113ad6bdf33ad8aedf84db32018f4fae35a22a373e772316db87a81c466c3f43",
-      "size": 37419
+    "423.532159297d1366cc.js": {
+      "sha256": "66ddd3e2928582227846405a4bcc3669755d7d247e59cd0f244823944690d878",
+      "size": 37557
     },
-    "430.a6e3ff21bbbb5ef5.js": {
-      "sha256": "d76522a27805061f1a455daa0cb4f638289203439e64051910b1e737fd7a7d75",
-      "size": 38086
+    "430.c15ee5ee4b496ecf.js": {
+      "sha256": "7d13b88a18da6b1d2dd251f838e34982869524b96a59c1a820d89641f6bb1993",
+      "size": 38075
     },
-    "431.5d50879dc1717c76.js": {
-      "sha256": "9301836fc5981e42a5ad8eeef2130faaddfd66e66bd175337e625a47e120784a",
-      "size": 58313
+    "431.bc9179a74c247810.js": {
+      "sha256": "2c7da3c908c4d28b63e712637fc7b29328213c9f5f2fe48fc16cb2d6a6f1501c",
+      "size": 58277
     },
-    "449.3c5d1b203e75a6ff.js": {
-      "sha256": "c6abbf123273634e9e6639cbb18be41cdd915ec04c10af8f9e49d5037b927975",
-      "size": 26053
+    "449.30f2dfa42677c689.js": {
+      "sha256": "909d1d1e05043b938faace8839f78d9a71b344c43667d6d72aa89fb5b9eff3a9",
+      "size": 25972
     },
-    "styles.132fd2d19d045038.css": {
-      "sha256": "15d64fb6d74d695a0926d5b9809fff6d32ebb92d2c12a665413b22828747e94c",
-      "size": 295743
+    "styles.4a81a7f169700c5a.css": {
+      "sha256": "5985db2e156ab0605754a16d232bde7348c6b6b512570afe46928c32624a3aac",
+      "size": 193989
     }
   }
 }
