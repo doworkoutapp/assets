@@ -1,13 +1,13 @@
 {
   "appId": "do-workout-app",
   "channel": "offline",
-  "version": "1.1.31",
-  "buildTimestamp": 1785231939169,
-  "zipFile": "app-bundle-v1.1.31.cn.zip",
-  "zipSha256": "d9c544d14f52bb6633db82928b53090d35194d90145284b37fb032ef14e5b2d6",
+  "version": "1.1.32",
+  "buildTimestamp": 1785261142544,
+  "zipFile": "app-bundle-v1.1.32.cn.zip",
+  "zipSha256": "789b78276ef1931595838c8c574482e2b117ccb9e84fdeb76b30a1895c8c5976",
   "files": {
     "index.androidOffline.html": {
-      "sha256": "3e2432a4e05562bbab4559f16ac2111e05e22c67b5250c7095232bc8ea30c527",
+      "sha256": "5c923ac77c298825af1a99754b70e510d939f87c56fc50e027ef038ed408195c",
       "size": 2289
     },
     "105.25b7082268f7ff19.js": {
@@ -22,6 +22,10 @@
       "sha256": "7722404d6cca2909f8bce144d82681fc0173fe75d1c003820dfd9d32ba53dd76",
       "size": 37770
     },
+    "286.86d6fefc00d043ba.js": {
+      "sha256": "f69153f8d94f439d6287b4c68c732874a690d4a26be47a852031592be4715462",
+      "size": 37630
+    },
     "304.bdfd35b2a97a91a2.js": {
       "sha256": "a73bfafa4bec3758c71dc7bf691948b6ed86768439324425cc855050f3525752",
       "size": 23488
@@ -34,14 +38,6 @@
       "sha256": "83d8b6e27a103ee026aca8a3c1e8e0f07bdb67058ca977bc24169a9aae5bba67",
       "size": 30098
     },
-    "423.532159297d1366cc.js": {
-      "sha256": "66ddd3e2928582227846405a4bcc3669755d7d247e59cd0f244823944690d878",
-      "size": 37557
-    },
-    "430.bc657a9d403d36fc.js": {
-      "sha256": "2e4c4c1cc5651507f08ff88082655c46aab58e688c9214d0a775500847fba0fe",
-      "size": 38059
-    },
     "431.bc9179a74c247810.js": {
       "sha256": "2c7da3c908c4d28b63e712637fc7b29328213c9f5f2fe48fc16cb2d6a6f1501c",
       "size": 58277
@@ -49,6 +45,10 @@
     "449.30f2dfa42677c689.js": {
       "sha256": "909d1d1e05043b938faace8839f78d9a71b344c43667d6d72aa89fb5b9eff3a9",
       "size": 25972
+    },
+    "465.35fd5c0c8bc3e024.js": {
+      "sha256": "365540cf139e3a1b2dd1eddd119aecb71de15258331cf93ae16e80d69b0e0c52",
+      "size": 83484
     },
     "styles.cfcc6d3cfb3f3385.css": {
       "sha256": "aae21055020ae5e00061fbdd180bad435d2578e2903b4b9125dc378252f8fed4",
