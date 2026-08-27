@@ -1,22 +1,18 @@
 {
   "appId": "do-workout-app",
   "channel": "offline",
-  "version": "1.1.39",
-  "buildTimestamp": 1787238214578,
-  "zipFile": "app-bundle-v1.1.39.cn.zip",
-  "zipSha256": "3bd198e86ef9682c8a66b3660acae992351ac6b60e429def381a1d51bb269aaa",
+  "version": "1.1.42",
+  "buildTimestamp": 1787824249806,
+  "zipFile": "app-bundle-v1.1.42.cn.zip",
+  "zipSha256": "23c406ad0c0ba0168ac075c3f4a9deb650197f827d202f12caff9f20c13be5eb",
   "files": {
     "index.androidOffline.html": {
-      "sha256": "ec44da3e589c3b1e320d18d0fb236670e88c333ad0f9bd6030ada85ef7535277",
+      "sha256": "c010f030abc056523f6e04a8d8c24f3af718d9bd7faf65cffffce4e2981242b3",
       "size": 2289
     },
-    "102.27ca8fe9ff9959fe.js": {
-      "sha256": "a7444eeaf71f32357d5fcd37052b278449ce5f73cd1cf82b1459bc55d68e7d92",
-      "size": 136257
-    },
-    "105.359a037d7fb1c8f5.js": {
-      "sha256": "fdd5dcda3b0cee3dc3e70f8fb89a78f2f84d106f91fde52f68547545a187c3bb",
-      "size": 118436
+    "105.367d12068d2ed9b0.js": {
+      "sha256": "0add753bd2a02f68aae9bc3147f2674e0c2dcf20d98fa5007b56a0ccbb26e7b2",
+      "size": 118670
     },
     "202.39c645f12cd8129b.js": {
       "sha256": "9e847ddec941e13d738854f13e00e0a082024d8f92f98eb6c986bd57afa972f3",
@@ -38,6 +34,10 @@
       "sha256": "b203d32a9e2084e94aa3a278172235f01e6d59503859a2684e85c069464c803f",
       "size": 208902
     },
+    "368.d65aa1a177ed1230.js": {
+      "sha256": "408d8c4f09ab5ef6480572ace7d45e89e5b43f3b13eb16720a402765a7d734e5",
+      "size": 140004
+    },
     "408.1673a22b7fa99023.js": {
       "sha256": "26e7883e128539d579867664820586aae88f1646cfd94f6162e49b55067d5a32",
       "size": 31289
@@ -50,9 +50,9 @@
       "sha256": "909d1d1e05043b938faace8839f78d9a71b344c43667d6d72aa89fb5b9eff3a9",
       "size": 25972
     },
-    "styles.cfcc6d3cfb3f3385.css": {
-      "sha256": "aae21055020ae5e00061fbdd180bad435d2578e2903b4b9125dc378252f8fed4",
-      "size": 194008
+    "styles.4bf1fef98879225b.css": {
+      "sha256": "4576902b21d93bfa1658dc25ca8e091bdb1dd8de4fc129e7987878114c41c7ca",
+      "size": 194440
     }
   }
 }
