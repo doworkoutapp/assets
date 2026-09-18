@@ -1,18 +1,18 @@
 {
   "appId": "do-workout-app",
   "channel": "offline",
-  "version": "1.1.61",
-  "buildTimestamp": 1789754590626,
-  "zipFile": "app-bundle-v1.1.61.cn.zip",
-  "zipSha256": "3ba97b16d2926a6e9352fff07c57bb50e46aef8123b32cefe3286cb3b6657b80",
+  "version": "1.1.63",
+  "buildTimestamp": 1789764088990,
+  "zipFile": "app-bundle-v1.1.63.cn.zip",
+  "zipSha256": "acf88f71e89537b0dc30c4b98097d585a1e985e50e39306a2d074eae79d96f64",
   "files": {
     "index.androidOffline.html": {
-      "sha256": "45307c9a9c665c2305e4100fc5d96f0895fc92bdd3acb8f4f96a1b4c29c1eb73",
+      "sha256": "ef9df6cab7e720dfa2356e55dfd69480339cc66a8d8528513e7a71996efface1",
       "size": 2289
     },
-    "105.7ced4f3ccb6bd889.js": {
-      "sha256": "d2b7265f0faeb7c6a3d54ab12cb30d87f96ca1d2c303c66804edddc15861dde0",
-      "size": 120191
+    "105.0433ca43c255fb7f.js": {
+      "sha256": "ff0c7dc1c45abb523efb5c182b3f9f7fcfd75c43ab4b6d0dcef6c0265676964a",
+      "size": 120190
     },
     "202.257bfe7ba2b653f3.js": {
       "sha256": "64bf78eee473c8222605f3f0ef63d631ab67af3ff84d8da410008534d45609a8",
@@ -34,9 +34,9 @@
       "sha256": "bd0b84eadea13036b60d6de905238c447f2cae38c114fa357365dbdbdcdfc020",
       "size": 22784
     },
-    "312.607dc6bdbbe6e5c3.js": {
-      "sha256": "0cc6b325b0fd9464178f04f0fa4b7e8c68a13a26d300c369887137d27859e7e8",
-      "size": 179986
+    "312.fa38ec249a5cfe1d.js": {
+      "sha256": "7c22ebfc44bf9afbb257823780cd39ed4c22553fdb5f26f5f64100eb5487434c",
+      "size": 179985
     },
     "357.20d7b9554a2131b5.js": {
       "sha256": "b203d32a9e2084e94aa3a278172235f01e6d59503859a2684e85c069464c803f",
@@ -46,9 +46,9 @@
       "sha256": "2261b3a41b37a53c773051a06118a57ea4afa8c9cd116a398cde544540caf1b7",
       "size": 37728
     },
-    "449.30f119e37e15fa7b.js": {
-      "sha256": "91dc4900f82b7ab2ed55b7a116d387fb8d89bdccffb74bc031091b4973468ebd",
-      "size": 26052
+    "449.edcca6efb4bf5f6c.js": {
+      "sha256": "2429160fadb34e7699bb583c79dad7d3a9bd37af62009351887b8ce49bc9157c",
+      "size": 26645
     },
     "styles.4bf1fef98879225b.css": {
       "sha256": "4576902b21d93bfa1658dc25ca8e091bdb1dd8de4fc129e7987878114c41c7ca",

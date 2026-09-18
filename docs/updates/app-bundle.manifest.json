@@ -1,18 +1,18 @@
 {
   "appId": "do-workout-app",
   "channel": "hybrid",
-  "version": "1.1.61",
-  "buildTimestamp": 1789754520398,
-  "zipFile": "app-bundle-v1.1.61.zip",
-  "zipSha256": "088c33621bb4e6a659aed5e31438a8a112a74252f6041ee98be9be6b595b81c7",
+  "version": "1.1.63",
+  "buildTimestamp": 1789763997215,
+  "zipFile": "app-bundle-v1.1.63.zip",
+  "zipSha256": "e94e957af9cf2be4c0dd66c0a1dac7efdbd9faf165e4c0b9efa1535cb034164c",
   "files": {
     "index.androidOffline.html": {
-      "sha256": "75916a1a28a2875209e4bf4cc0fe1a9351a909f169e3b77c84b400680d3f1171",
+      "sha256": "407a7c840e92a29742048afa7dc12e72d05fd5d770f8c3442938ce7225c320d0",
       "size": 2288
     },
-    "105.7ced4f3ccb6bd889.js": {
-      "sha256": "d2b7265f0faeb7c6a3d54ab12cb30d87f96ca1d2c303c66804edddc15861dde0",
-      "size": 120191
+    "105.0433ca43c255fb7f.js": {
+      "sha256": "ff0c7dc1c45abb523efb5c182b3f9f7fcfd75c43ab4b6d0dcef6c0265676964a",
+      "size": 120190
     },
     "202.257bfe7ba2b653f3.js": {
       "sha256": "64bf78eee473c8222605f3f0ef63d631ab67af3ff84d8da410008534d45609a8",
@@ -34,9 +34,9 @@
       "sha256": "bd0b84eadea13036b60d6de905238c447f2cae38c114fa357365dbdbdcdfc020",
       "size": 22784
     },
-    "312.607dc6bdbbe6e5c3.js": {
-      "sha256": "0cc6b325b0fd9464178f04f0fa4b7e8c68a13a26d300c369887137d27859e7e8",
-      "size": 179986
+    "312.fa38ec249a5cfe1d.js": {
+      "sha256": "7c22ebfc44bf9afbb257823780cd39ed4c22553fdb5f26f5f64100eb5487434c",
+      "size": 179985
     },
     "357.20d7b9554a2131b5.js": {
       "sha256": "b203d32a9e2084e94aa3a278172235f01e6d59503859a2684e85c069464c803f",
@@ -46,9 +46,9 @@
       "sha256": "2261b3a41b37a53c773051a06118a57ea4afa8c9cd116a398cde544540caf1b7",
       "size": 37728
     },
-    "449.30f119e37e15fa7b.js": {
-      "sha256": "91dc4900f82b7ab2ed55b7a116d387fb8d89bdccffb74bc031091b4973468ebd",
-      "size": 26052
+    "449.edcca6efb4bf5f6c.js": {
+      "sha256": "2429160fadb34e7699bb583c79dad7d3a9bd37af62009351887b8ce49bc9157c",
+      "size": 26645
     },
     "styles.4bf1fef98879225b.css": {
       "sha256": "4576902b21d93bfa1658dc25ca8e091bdb1dd8de4fc129e7987878114c41c7ca",
