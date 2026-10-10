@@ -1,22 +1,18 @@
 {
   "appId": "do-workout-app",
   "channel": "hybrid",
-  "version": "1.1.83",
-  "buildTimestamp": 1791544820905,
-  "zipFile": "app-bundle-v1.1.83.zip",
-  "zipSha256": "bb02e3824df106ed003af4b6eb296efe21d36da41b8855e412212686fc731d57",
+  "version": "1.1.84",
+  "buildTimestamp": 1791632456820,
+  "zipFile": "app-bundle-v1.1.84.zip",
+  "zipSha256": "a80d3db4075771321aeb668cdd257d532d37b79a3d70101d2e273f1117b10837",
   "files": {
     "index.androidOffline.html": {
-      "sha256": "40819fe303a6945a9aebc18ceb2978fb8358543a5e2bdfb61895ffa3425ca7f3",
+      "sha256": "b05bf1e59de55687eed78864ecaa5d52c3244a51c1c530a50a6f990009631bfd",
       "size": 2288
     },
     "108.0be5139c49bbc2c5.js": {
       "sha256": "6d621a50cfc3daee31b6b0cb8c81d641ee26b01cec4a6c9b375914e84ef6ea43",
       "size": 53162
-    },
-    "155.a8a83051c2330ff4.js": {
-      "sha256": "fa3949a6f0efb295a018fb42f6664d2de426ca8001ce30f8794aa0116099277b",
-      "size": 218633
     },
     "202.2cb3b9ed0203c56f.js": {
       "sha256": "510ffd52dd78f750ef4dba7102eb2f56f1692aac88c50a21c4c39553c1347d69",
@@ -34,9 +30,9 @@
       "sha256": "9cc452afc22d23c56340fd27db5854f6873fb0366de53fc4733fd63c941ed7d4",
       "size": 45390
     },
-    "304.457a92477b65d50e.js": {
-      "sha256": "3792a668382ab8cda9a0b212a21a217180eb2ca371de3c5b71c7132da12c336d",
-      "size": 22765
+    "304.315ef36d7498fd6e.js": {
+      "sha256": "6d9931883f6b1158ad973137ad5d8aedd36cff6e21252d4816091616de9ea569",
+      "size": 222005
     },
     "357.20d7b9554a2131b5.js": {
       "sha256": "b203d32a9e2084e94aa3a278172235f01e6d59503859a2684e85c069464c803f",
@@ -49,6 +45,10 @@
     "449.37a708bfc070fb3a.js": {
       "sha256": "3713898040065306a9e6f0eec70ec025ef9ea48aa782d7cb7fab54bfe32f5462",
       "size": 26645
+    },
+    "452.7c79c58731002cc2.js": {
+      "sha256": "efd8f0bb2fcdca6a37330a38bf8a959b5e5123cb7c116de2baad5786d57b049c",
+      "size": 17487
     },
     "styles.1195258436114301.css": {
       "sha256": "ddbb003b36c0dde6342a67995525412aed06d6e7a8362017218616f6393592f9",
