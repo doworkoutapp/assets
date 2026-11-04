@@ -1,0 +1,58 @@
+{
+  "appId": "do-workout-app",
+  "channel": "google-hybrid",
+  "version": "1.1.91",
+  "buildTimestamp": 1793778918236,
+  "zipFile": "app-bundle-v1.1.91.google-hybrid.zip",
+  "zipSha256": "33360a73567bbc5242b8d1522f1202ad4ee82b6da7a9c8cbf3eadda930730c79",
+  "files": {
+    "index.androidOffline.html": {
+      "sha256": "af170a6a8b71f991bdd7d279451546a4f37b946abbb1a29dedae128fa391e365",
+      "size": 2288
+    },
+    "108.51d3b4556411256c.js": {
+      "sha256": "1afbaeffeafcaaae0b464b1ffcd7aaa6d90d2126b05f27c44d56dfa4719bfc42",
+      "size": 53263
+    },
+    "15.0713a23722d5a856.js": {
+      "sha256": "d06be573e745fca62bd02c0b19a187d1a75a0d687c35fcd93068bd122c23b708",
+      "size": 173676
+    },
+    "202.d2dc5272631399d8.js": {
+      "sha256": "6c3957722f77350fd7c4012bba120d22517c0d7c29a16d021911bec29cf126ca",
+      "size": 87613
+    },
+    "235.dfad26f773d11bb7.js": {
+      "sha256": "47f537f69dd9d50ee9ec5222a43cbac9bd0c79e146e5bc0c4568775962e02aa0",
+      "size": 30752
+    },
+    "248.8241ed2f0b37d217.js": {
+      "sha256": "eb6dd2603e5b2e15b0b12f07d5923e28801376c8cec72babfba8baaa35a2ec23",
+      "size": 5669
+    },
+    "275.ee0a0607d418e715.js": {
+      "sha256": "9cc452afc22d23c56340fd27db5854f6873fb0366de53fc4733fd63c941ed7d4",
+      "size": 45390
+    },
+    "304.91fee93dd93417d8.js": {
+      "sha256": "5a3a2fa6781ca1827f2dcb24aa74e03b14d1d03a325a733b8bc1cc1fc7f33a3c",
+      "size": 222780
+    },
+    "357.20d7b9554a2131b5.js": {
+      "sha256": "b203d32a9e2084e94aa3a278172235f01e6d59503859a2684e85c069464c803f",
+      "size": 208902
+    },
+    "408.d9e292b2a30d9164.js": {
+      "sha256": "2261b3a41b37a53c773051a06118a57ea4afa8c9cd116a398cde544540caf1b7",
+      "size": 37728
+    },
+    "446.a1f6dc53e797e7b9.js": {
+      "sha256": "af15f2d922c4739791e585930b8888e6380dcf130f4a4781a8aa0857d7479905",
+      "size": 26551
+    },
+    "styles.1195258436114301.css": {
+      "sha256": "ddbb003b36c0dde6342a67995525412aed06d6e7a8362017218616f6393592f9",
+      "size": 195937
+    }
+  }
+}
